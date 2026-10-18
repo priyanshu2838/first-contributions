@@ -1,6 +1,6 @@
-- [Priyanshu Singh](https://github.com/priyanshu2838)
-Abhyuday Singh
+- [Abhyuday Singh]
 - [Aditya Raj](https://github.com/me-adityaraj8)
+- [Priyanshu Singh](https://github.com/priyanshu2838)
 -[Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [Mayank Gaur](https://github.com/Mayank-CS50)
